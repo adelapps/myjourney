@@ -1,0 +1,6 @@
+{
+  "name": "سفر من",
+  "description": "برنامه ثبت و اعلام سفر درمان اعتیاد و سیگار کنگره ۶۰ با محاسبات دقیق زمانی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
