@@ -1,0 +1,10 @@
+{
+  "name": "safareman-k60",
+  "version": "1.0.0",
+  "description": "برنامه ثبت و اعلام سفر درمان اعتیاد و سیگار کنگره ۶۰ با محاسبات دقیق زمانی",
+  "private": true,
+  "scripts": {
+    "build": "gradle assembleDebug",
+    "test": "gradle test"
+  }
+}
